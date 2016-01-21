@@ -1,0 +1,29 @@
+{
+  "name": "project-linters",
+  "version": "0.0.1",
+  "description": "A set of javascript applications linters",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skrobek/project-linters.git"
+  },
+  "keywords": [
+    "linters",
+    "configs"
+  ],
+  "author": "Pawel Skroban",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/skrobek/project-linters/issues"
+  },
+  "homepage": "https://github.com/skrobek/project-linters#readme",
+  "dependencies": {
+    "babel-eslint": "^4.1.6",
+    "eslint": "^1.10.3",
+    "eslint-config-airbnb": "^3.1.0",
+    "eslint-plugin-react": "^3.15.0"
+  }
+}

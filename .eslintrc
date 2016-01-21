@@ -1,0 +1,19 @@
+{
+  "parser": "babel-eslint",
+  "env": {
+    "browser": true,
+    "node": true
+  },
+  ecmaFeatuers: {
+    "classes": true
+  },
+  "extends": "airbnb",
+  "rules": {
+    comma-dangle: [2, "never"],
+    default-case: 1,
+    no-param-reassign: 1,
+    "react/jsx-no-bind": [2, {
+      "allowBind": true
+    }]
+  }
+}
