@@ -20,7 +20,7 @@
     "url": "https://github.com/skrobek/project-linters/issues"
   },
   "homepage": "https://github.com/skrobek/project-linters#readme",
-  "dependencies": {
+  "devDependencies": {
     "babel-eslint": "^4.1.6",
     "eslint": "^1.10.3",
     "eslint-config-airbnb": "^3.1.0",
